@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,Creator
+creator,Creator,,,
 subject,,true,,Pattern Subject
 location,,true,,Country of Origin
 patterntype,Pattern Type,true,,Pattern Type
